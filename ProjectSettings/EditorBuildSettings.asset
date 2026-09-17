@@ -11,5 +11,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_/Scenes/Protolude.unity
     guid: d950a15af5bfc5f47bbfb6da5ef16e00
+  - enabled: 1
+    path: Assets/_/Scenes/Fin.unity
+    guid: 70d0a17d666d67547960b8b65983514f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
